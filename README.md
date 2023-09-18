@@ -2,7 +2,6 @@
 Hi 👋, mazen here
 
 
-Languages and Tools:
 Cloud:
 aws azure
 
