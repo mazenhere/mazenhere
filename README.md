@@ -13,4 +13,4 @@ mazhere
 I work on DevOps, Microservices, containers, and everything around it.
 
 Connect with me:
-📫 How to reach  connect2maz@gmail.com
+📫 How to reach  meet2maz@gmail.com
